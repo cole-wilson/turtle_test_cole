@@ -22,7 +22,7 @@ jobs:
             asset_name: turtle_test_cole-$tag-windows64.exe
             glob: false
           - os: macos-latest
-            artifact_path: ./dist/pyinstaller/turtle_test.dmg
+            artifact_path: ./dist/pyinstaller/turtle_test.app
             asset_name: turtle_test_cole-$tag-macos.dmg
             glob: false
 
