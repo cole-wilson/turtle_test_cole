@@ -1,0 +1,26 @@
+name = "turtle_test"
+short_name = "turtle_test_cole"
+author = "cole"
+email = "cole@colewilson.xyz"
+short_description = ""
+description = ""
+url = "a.a"
+license = ""
+keywords = ""
+data_files = []
+file = "main.py"
+modules = []
+fullname = "turtle_test"
+icon = ""
+latest_build = "1"
+
+[build]
+type = "2"
+mac = true
+windows = true
+installer = true
+actions = true
+github = "cole-wilson/turtle_test_cole"
+bundle_id = "com.cole.turtle_test_cole"
+homebrew = false
+actions_built_latest = true
